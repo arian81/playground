@@ -1,0 +1,73 @@
+{
+    "movies": [
+        {
+            "title": "Tom Gleeson: Joy 2020",
+            "Year": "2020",
+            "Genre": [
+                "کمدی"
+            ],
+            "Actors": "\nTom Gleeson ",
+            "DIrector/s": "Simon Francis",
+            "Metacritic": "",
+            "IMDb": "5",
+            "RottenTomatoes": "",
+            "image link": "https://30nama.kim/pictures//poster/3012058970-m_30NAMA.jpg",
+            "Summery": ".",
+            "Lang": "  انگلیسی ",
+            "time": "  1 ساعت و 12 دقیقه",
+            "country": "استرالیا"
+        },
+        {
+            "title": "Anne Edmonds: What's Wrong with You? 2020",
+            "Year": "2020",
+            "Genre": [
+                "کمدی"
+            ],
+            "Actors": "\nAnne Edmonds ",
+            "DIrector/s": "Simon Francis",
+            "Metacritic": "",
+            "IMDb": "3",
+            "RottenTomatoes": "",
+            "image link": "https://30nama.kim/pictures//poster/3012058952-m_30NAMA.jpg",
+            "Summery": ".",
+            "Lang": "  انگلیسی ",
+            "time": "  1 ساعت و 4 دقیقه",
+            "country": "استرالیا"
+        },
+        {
+            "title": "Andrés Iniesta: The Unexpected Hero 2020",
+            "Year": "2020",
+            "Genre": [
+                "مستند"
+            ],
+            "Actors": "\nÉric Abidal, Jordi Alba, Gianluigi Buffon, Petr Cech, Vicente del Bosque ",
+            "DIrector/s": "Oriol Bosch",
+            "Metacritic": "",
+            "IMDb": "7.8",
+            "RottenTomatoes": "",
+            "image link": "https://30nama.kim/pictures//poster/3011786320-m_30NAMA.jpg",
+            "Summery": ".",
+            "Lang": "",
+            "time": "  1 ساعت و 26 دقیقه",
+            "country": "اسپانیا"
+        },
+        {
+            "title": "Bhoot: Part One - The Haunted Ship 2020",
+            "Year": "2020",
+            "Genre": [
+                "ترسناک",
+                "معمایی"
+            ],
+            "Actors": "\nVicky Kaushal, Bhumi Pednekar, Ashutosh Rana, Parthaa Akerkar, Aashna Arora ",
+            "DIrector/s": "Bhanu Pratap Singh",
+            "Metacritic": "",
+            "IMDb": "5.6",
+            "RottenTomatoes": "",
+            "image link": "https://30nama.kim/pictures//poster/3010463030-m_30NAMA.jpg",
+            "Summery": ".",
+            "Lang": "  هندی ",
+            "time": "  1 ساعت و 54 دقیقه",
+            "country": "هند"
+        }
+    ]
+}
