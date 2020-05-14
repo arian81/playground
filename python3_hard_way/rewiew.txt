@@ -1,0 +1,32 @@
+print
+()
+""
+##
+float
++
+=
+==
+-
+*
+/
+>=
+<=
+variables
+round
+print(f"{variable}") , print("{variable}".format())
+print("", end='something')
+\n
+\t
+\\
+input()
+from sys import argv
+open(filename)
+txt.read()
+txt.close()
+open(filename, 'w')
+truncate()
+file.write()
+len()
+def fname(arg):
+    pass
+seek(0)
